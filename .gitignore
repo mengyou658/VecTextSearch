@@ -1,3 +1,4 @@
 # .gitignore
 .env
 scripts/all_go_files.txt
+.idea/
